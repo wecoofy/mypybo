@@ -21,8 +21,5 @@
   };
 </script>
 
-<svelte:head>
-  <title>mypybo</title>
-</svelte:head>
 <Nav />
 <Router {routes} />
