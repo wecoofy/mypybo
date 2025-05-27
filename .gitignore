@@ -1,5 +1,5 @@
 .idea
-myapi.db
+*.db
 *.pyc
 __pycache__
 migrations
